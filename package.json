@@ -1,0 +1,25 @@
+{
+  "name": "php-badge",
+  "version": "0.0.1",
+  "description": "a badge viewer app for codeschool.com",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Hoar",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-php": "^1.5.1"
+  },
+  "dependencies": {
+    "grunt-php": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHoar/phpBadgeViewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SHoar/phpBadgeViewer/issues"
+  },
+  "homepage": "https://github.com/SHoar/phpBadgeViewer#readme"
+}
